@@ -5,6 +5,6 @@
 1. Need Termux Api
 ```
 git clone https://github.com/mdsabbir1001/Kidding.git
+cd Kidding
+python LOL.py
 ```
-`cd Kidding`
-`python LOL.py`
